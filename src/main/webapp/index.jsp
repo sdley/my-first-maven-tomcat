@@ -7,7 +7,7 @@
             display: flex;
             flex-direction: column;
             align-items: center;  /* Centers content horizontally */
-            justify-content: center; /* Centers content vertically */
+            /* justify-content: center; */ /* Centers content vertically */
             height: 100vh; /* Makes body take full viewport height */
             margin: 0; /* Removes default margin */
             text-align: center; /* Ensures text is centered */
