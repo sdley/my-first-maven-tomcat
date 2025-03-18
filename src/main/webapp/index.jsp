@@ -9,7 +9,7 @@
             align-items: center;  /* Centers content horizontally */
             /* justify-content: center; */ /* Centers content vertically */
             height: 100vh; /* Makes body take full viewport height */
-            margin: 0; /* Removes default margin */
+            /* margin: 0; Removes default margin */
             text-align: center; /* Ensures text is centered */
         }
     </style>
